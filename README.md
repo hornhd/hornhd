@@ -8,4 +8,4 @@ Hi, my name is Hannes Horn. I am a Senior Bioinformatician working in the fields
 
 # Find me
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/hannes-horn/)
-[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](hannesdh88@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](hannesdh88@gmail.com)
